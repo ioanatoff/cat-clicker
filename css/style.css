@@ -1,0 +1,14 @@
+img {
+  height: 300px;
+}
+
+#cat {
+  background: gray;
+  display: inline-block;
+  color: white;
+}
+
+#cat #cat-name{
+  text-align: center;
+  padding: 10px;
+}
